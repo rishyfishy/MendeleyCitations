@@ -1,4 +1,4 @@
-# MendeleyCitations
+# Mendeley Citations
 Simple Code to find which references you haven't yet used in Mendeley.
 
 Say you have a folder in Mendeley with 200 documents. This folder was created for a research paper. You're nearing the end of the paper, and you realize you've only used 150 documents. There's no easy way to find which 50 documents you missed! I made some python code to solve that problem, and I will soon be doing the same in C++ and creating a .exe file.
